@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Sample Project_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="81.5601010994" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="comment" value="Interface Sound Effects Sample Pack with 550+ HUD, UI sounds and computer sci-fi sound effects, including futuristic beeps, buttons, typing UI sound effects and more! Available at https://www.soundresponse.net/interface-sound-effects/  Binary Code - Hi-Tech Interface UI Sound Effects Sample Pack contains those sought-after, futuristic, hi-tech interface and HUD and UI sound effects perfect for games, movies, trailers, videos, app sounds, and many other applications! If you need futuristic sci-fi computer beeps, bleeps, and buttons sound effects, scanning, readouts, and data processing sound effects, or if you need variety of sci-fi computer typing sound effects in order to give the project that you’re working on that sophisticated, futuristic sci-fi sound, Binary Code soundpack has you covered!    WITH BINARY CODE SOUND LIBRARY YOU ALSO GET 200 BONUS UI SOUND EFFECTS! These UI &amp; HUD sound effects are example of what you can expect from other interface sound libraries by Sound Response! You get 130 sound effects from BINARY CODE 2 sound library, a Binary Code&apos;s massive second installment that features whopping 1000 high quality UI sounds!  You can hear demo for Binary Code 2 here https://www.youtube.com/watch?v=bNy5Bs0Rp2g and find more info about the library here https://www.soundresponse.net/sci-fi-interface-sound-effects/ You get 55 sound effects from The Future is Now sound library that features 700 UI sound effects!  And you also get 15 sound effects from our DATA soundpack that features 170 data processing sound effects!  If you like the sound of Binary Code be sure to check out the most massive and the most diverse interface sound library from Sound Response to this date – Binary Code 3 – Interface Multiverse! You can listen the demo here https://www.youtube.com/watch?v=Yj5xkmZD3wU Binary Code 3 features 1300 (2.3GB) professionally designed, brand new HUD &amp; UI sound effects separated into 10 different categories and it contains everything from neutral beeps &amp; buttons, confirmed (access granted) and negative (access denied) UI sounds, sophisticated holograms &amp; subtle transitions, various glitches, typing sounds, and much more!  Sound effects designed by Vedran Kapetinic.  Music composed by Vedran Kapetinic.    Sound Response on Facebook: https://www.facebook.com/SoundResponseOfficial Sound Response on Soundcloud: https://soundcloud.com/soundresponse Sound Response on Twitter: https://twitter.com/SoundResponse Sound Response on Instagram: https://www.instagram.com/sound_response/  Copyright © Sound Response. All Rights Reserved."/>
+		<tag name="purl" value="https://www.youtube.com/watch?v=Y8w-2lzM-C4"/>
+		<tag name="ARTIST" value="Sound Response"/>
+		<tag name="TITLE" value="Binary Code - Interface Sound Effects | Sci-Fi Computer Beeps &amp; Data Processing Sounds"/>
+		<tag name="Software" value="Lavf58.29.100"/>
+		<tag name="YEAR" value="20170323"/>
+		<tag name="description" value="Interface Sound Effects Sample Pack with 550+ HUD, UI sounds and computer sci-fi sound effects, including futuristic beeps, buttons, typing UI sound effects and more! Available at https://www.soundresponse.net/interface-sound-effects/  Binary Code - Hi-Tech Interface UI Sound Effects Sample Pack contains those sought-after, futuristic, hi-tech interface and HUD and UI sound effects perfect for games, movies, trailers, videos, app sounds, and many other applications! If you need futuristic sci-fi computer beeps, bleeps, and buttons sound effects, scanning, readouts, and data processing sound effects, or if you need variety of sci-fi computer typing sound effects in order to give the project that you’re working on that sophisticated, futuristic sci-fi sound, Binary Code soundpack has you covered!    WITH BINARY CODE SOUND LIBRARY YOU ALSO GET 200 BONUS UI SOUND EFFECTS! These UI &amp; HUD sound effects are example of what you can expect from other interface sound libraries by Sound Response! You get 130 sound effects from BINARY CODE 2 sound library, a Binary Code&apos;s massive second installment that features whopping 1000 high quality UI sounds!  You can hear demo for Binary Code 2 here https://www.youtube.com/watch?v=bNy5Bs0Rp2g and find more info about the library here https://www.soundresponse.net/sci-fi-interface-sound-effects/ You get 55 sound effects from The Future is Now sound library that features 700 UI sound effects!  And you also get 15 sound effects from our DATA soundpack that features 170 data processing sound effects!  If you like the sound of Binary Code be sure to check out the most massive and the most diverse interface sound library from Sound Response to this date – Binary Code 3 – Interface Multiverse! You can listen the demo here https://www.youtube.com/watch?v=Yj5xkmZD3wU Binary Code 3 features 1300 (2.3GB) professionally designed, brand new HUD &amp; UI sound effects separated into 10 different categories and it contains everything from neutral beeps &amp; buttons, confirmed (access granted) and negative (access denied) UI sounds, sophisticated holograms &amp; subtle transitions, various glitches, typing sounds, and much more!  Sound effects designed by Vedran Kapetinic.  Music composed by Vedran Kapetinic.    Sound Response on Facebook: https://www.facebook.com/SoundResponseOfficial Sound Response on Soundcloud: https://soundcloud.com/soundresponse Sound Response on Twitter: https://twitter.com/SoundResponse Sound Response on Instagram: https://www.instagram.com/sound_response/  Copyright © Sound Response. All Rights Reserved."/>
+	</tags>
+	<wavetrack name="Start Binary" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="446689">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808fe9.au" len="261039" min="-0.550311" max="0.67131" rms="0.09228"/>
+				</waveblock>
+				<waveblock start="261039">
+					<simpleblockfile filename="e0808692.au" len="185650" min="-0.111096" max="0.152182" rms="0.022067"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Start Binary" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="446689">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cf6.au" len="261039" min="-0.703314" max="0.639991" rms="0.091002"/>
+				</waveblock>
+				<waveblock start="261039">
+					<simpleblockfile filename="e080882e.au" len="185650" min="-0.133646" max="0.123913" rms="0.023012"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="audio" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="4.56104308" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="73471">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808aa7.au" len="73471" min="-0.781647" max="0.789307" rms="0.076278"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
